@@ -20,22 +20,8 @@ Prerequisites
 
 Ensure Python 3.x is installed.
 
-Steps
 
-Clone the repository or download the source code:
-
-git clone https://github.com/yourusername/sudoku-solver.git
-cd sudoku-solver
-
-Install dependencies (if any):
-
-pip install -r requirements.txt
-
-Run the script:
-
-python sudoku_solver.py
-
-Usage
+## Usage
 
 Input an unsolved Sudoku puzzle via terminal or file (optional GUI support).
 
@@ -43,7 +29,7 @@ The solver processes the input and provides a complete solution.
 
 The output displays the solved Sudoku grid.
 
-Example
+## Example
 
 Input
 
@@ -57,7 +43,7 @@ Output
 6 7 2 | 1 9 5 | 3 4 8
 1 9 8 | 3 4 2 | 5 6 7
 
-How It Works
+## How It Works
 
 Identifies an empty cell.
 
