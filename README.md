@@ -2,6 +2,7 @@
 
 The Sudoku Solver is a Python program that efficiently solves 9x9 Sudoku puzzles using a backtracking algorithm. It ensures every number placement adheres to Sudoku rules, providing a quick and accurate solution.
 
+## 
 ## Features
 
 Automatically solves 9x9 Sudoku puzzles.
@@ -21,6 +22,8 @@ Prerequisites
 Ensure Python 3.x is installed.
 
 
+
+## 
 ## Usage
 
 Input an unsolved Sudoku puzzle via terminal or file (optional GUI support).
@@ -29,6 +32,7 @@ The solver processes the input and provides a complete solution.
 
 The output displays the solved Sudoku grid.
 
+## 
 ## Example
 
 Input
@@ -43,6 +47,7 @@ Output
 6 7 2 | 1 9 5 | 3 4 8
 1 9 8 | 3 4 2 | 5 6 7
 
+## 
 ## How It Works
 
 Identifies an empty cell.
